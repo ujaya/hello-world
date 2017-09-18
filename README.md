@@ -1,2 +1,3 @@
 # hello-world
-Derpository
+Derpository of knowledge and wisdom.
+Wherein git is learnt of.
